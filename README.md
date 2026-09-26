@@ -1,4 +1,4 @@
-# Entregables de Procesamiento de Lenguaje Natural
+# Mini-Proyecto de clasificación de texto con BERT
 
 **ICESI · Grupo X-Ray**
 
@@ -55,8 +55,8 @@ transitivas. La primera ejecución necesita Internet para descargar dependencias
 datos y el checkpoint base. Después puede utilizar los archivos locales.
 
 ```bash
-git clone https://github.com/cris-bytes/curso-nlp-entregables.git
-cd curso-nlp-entregables
+git clone https://github.com/cris-bytes/Mini-Proyecto-de-clasificacion-de-texto-con-BERT.git
+cd Mini-Proyecto-de-clasificacion-de-texto-con-BERT
 python3.11 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements-lock.txt
