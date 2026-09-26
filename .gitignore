@@ -1,0 +1,14 @@
+.venv/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+modelos/
+data/*.parquet
+*.zip
+
+.vscode/
+.env
+.env.*
+*.log
+.revision-interna/

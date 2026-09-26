@@ -1,0 +1,19 @@
+{
+  "segundos_busqueda": 6.7982495830074186,
+  "candidatos": [
+    {
+      "modelo": "TF-IDF + lineal",
+      "configuraci\u00f3n": "C=1.0",
+      "accuracy": 0.7631578947368421,
+      "f1_macro": 0.6900979587663104,
+      "f1_ponderado": 0.76561947203243
+    },
+    {
+      "modelo": "TF-IDF + lineal",
+      "configuraci\u00f3n": "C=4.0",
+      "accuracy": 0.7945344129554656,
+      "f1_macro": 0.7559996235050381,
+      "f1_ponderado": 0.7973669575638918
+    }
+  ]
+}

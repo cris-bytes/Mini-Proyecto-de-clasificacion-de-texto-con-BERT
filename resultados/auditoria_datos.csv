@@ -1,0 +1,4 @@
+partición,originales,utilizados,retirados,textos_repetidos_originales
+train,11514,10957,557,344
+validation,2033,1976,57,18
+test,2974,2974,0,30

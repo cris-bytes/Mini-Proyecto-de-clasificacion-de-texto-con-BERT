@@ -1,0 +1,24 @@
+{
+  "dataset": "AmazonScience/massive",
+  "locale": "es-ES",
+  "dataset_revision": "ed58ac423a2f4121720918bf5301577edce4ffd3",
+  "license": "CC BY 4.0",
+  "files": {
+    "train": {
+      "url": "https://huggingface.co/datasets/AmazonScience/massive/resolve/ed58ac423a2f4121720918bf5301577edce4ffd3/es-ES/train/0000.parquet",
+      "sha256": "e8f98e62b3ab88bbf974033647d79a44162bc555c559d0a8a0a201ccba596c0d"
+    },
+    "validation": {
+      "url": "https://huggingface.co/datasets/AmazonScience/massive/resolve/ed58ac423a2f4121720918bf5301577edce4ffd3/es-ES/validation/0000.parquet",
+      "sha256": "c30e484522baf622329c740ca641fed1d5cb5f1f11dc877e49763e0bd1f8f92a"
+    },
+    "test": {
+      "url": "https://huggingface.co/datasets/AmazonScience/massive/resolve/ed58ac423a2f4121720918bf5301577edce4ffd3/es-ES/test/0000.parquet",
+      "sha256": "ca94eebc836e61e8bc530966c6565bb2c2b9d6184cc910c767c7fa6a9563de19"
+    }
+  },
+  "model": "dccuchile/bert-base-spanish-wwm-cased",
+  "model_revision": "c4d86612f51b4f46759c8390d1798c2febe71b93",
+  "dataset_source": "https://huggingface.co/datasets/AmazonScience/massive",
+  "model_source": "https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased"
+}

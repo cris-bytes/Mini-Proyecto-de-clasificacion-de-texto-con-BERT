@@ -1,0 +1,13 @@
+par,tipo,texto,esperada,predicha,puntuación,correcta,pedir_aclaración
+Alarma,normal,Pon una alarma para mañana a las siete,alarm_set,alarm_set,0.97474843,True,False
+Alarma,variante,pon una alrma pa mañana a las siete,alarm_set,calendar_set,0.8124711,False,False
+Clima,normal,¿Cómo estará el clima mañana en Cali?,weather_query,weather_query,0.9920034,True,False
+Clima,variante,¿Mañana va a llover por acá en Cali?,weather_query,weather_query,0.9910938,True,False
+Música,normal,Reproduce música de salsa,play_music,play_music,0.97072977,True,False
+Música,variante,"Parce, poneme una salsita",play_music,play_music,0.8691805,True,False
+Calendario,normal,¿Qué reuniones tengo mañana?,calendar_query,calendar_query,0.9858219,True,False
+Calendario,variante,qué reunions tengo pa mañana,calendar_query,calendar_query,0.9870319,True,False
+Taxi,normal,Pide un taxi para ir al aeropuerto,transport_taxi,transport_taxi,0.95944536,True,False
+Taxi,variante,Pedime un taxi pa ir al aeropuerto,transport_taxi,transport_taxi,0.9605502,True,False
+Luz,normal,Apaga la luz de la sala,iot_hue_lightoff,iot_hue_lightoff,0.9308029,True,False
+Luz,variante,Haceme el favor y apagá la luz de la sala,iot_hue_lightoff,iot_hue_lightoff,0.93529975,True,False
